@@ -1,0 +1,30 @@
+div, header, footer, article, aside {
+	min-height: 100px;
+	background: #dfdfdf;
+	border: 1px solid #aaa;
+	}
+.left {
+	float: left;
+	}
+.right {
+	float: right;
+}
+footer {
+	clear: both;
+	margin: 10px;
+}
+article {
+	width: 17%;
+	height: 300px;
+	margin: 10px;
+}
+aside {
+	width: 17%;
+	height: 300px;
+	margin: 10px;
+}
+div {
+	width: 60%;
+	height: 300px;
+	margin: 10px;
+}
